@@ -1,0 +1,35 @@
+slots:
+ query:
+   type: text
+ name:
+   type: text
+ location:
+   type: text
+
+intents:
+ -Default Welcome Intent
+ -Loan
+ -loan_general_query
+ -Default Fallback Intent
+ -account_balance_enquiry
+ -account_general_query
+ -account_money_transfer
+ -account_transaction_details
+ -card
+
+entities:
+ -down_payment
+ -EMI
+ -LoanType
+ -MCLR
+ -NRI_PIO
+ -POA
+ -RATE_OF_INTEREST
+ -account_number
+ -account_type
+ -transfer_type
+ -cardtype
+
+templates:
+ utter_greet:
+  -"hello"
