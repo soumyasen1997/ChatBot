@@ -1,9 +1,0 @@
-{
-  "id": "ecac72b8-bbf0-400c-badd-afb1fc35196c",
-  "name": "EMI",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

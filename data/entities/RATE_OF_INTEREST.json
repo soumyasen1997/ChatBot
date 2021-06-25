@@ -1,9 +1,0 @@
-{
-  "id": "932c0f4c-17d4-4704-9773-1ecf6d16ebfb",
-  "name": "RATE_OF_INTEREST",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

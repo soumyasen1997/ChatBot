@@ -1,9 +1,0 @@
-{
-  "id": "71b5c582-dbde-4a18-a23c-5e25468a9812",
-  "name": "NRI_PIO",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

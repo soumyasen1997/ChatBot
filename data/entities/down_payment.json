@@ -1,9 +1,0 @@
-{
-  "id": "57890001-8616-49a0-b3a1-b68afebd3afc",
-  "name": "down_payment",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

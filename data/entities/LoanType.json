@@ -1,9 +1,0 @@
-{
-  "id": "65ab413e-fbb6-4db8-8eda-b7c2a9a909cd",
-  "name": "LoanType",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}
