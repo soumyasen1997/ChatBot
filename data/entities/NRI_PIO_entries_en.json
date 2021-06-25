@@ -1,0 +1,18 @@
+[
+  {
+    "value": "NRI",
+    "synonyms": [
+      "NRI",
+      "non resident india",
+      "non resident indian",
+      "non residents of india"
+    ]
+  },
+  {
+    "value": "POI",
+    "synonyms": [
+      "POI",
+      "person of indian origin"
+    ]
+  }
+]

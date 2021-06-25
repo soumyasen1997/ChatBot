@@ -1,0 +1,44 @@
+{
+  "id": "3b5fa948-9c09-4086-8551-fe7aa37ee8f4",
+  "name": "account_general_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "85c6ba73-1049-47f7-bffe-c9226fe53c88",
+          "required": false,
+          "dataType": "@account_type",
+          "name": "account_type",
+          "value": "$account_type",
+          "isList": false
+        },
+        {
+          "id": "5d0058b3-fa4e-4bdc-bba5-66cf1adb06b0",
+          "required": false,
+          "dataType": "@RATE_OF_INTEREST",
+          "name": "RATE_OF_INTEREST",
+          "value": "$RATE_OF_INTEREST",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

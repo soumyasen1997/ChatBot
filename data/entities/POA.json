@@ -1,0 +1,9 @@
+{
+  "id": "d8c34c43-300c-4e13-986c-2baa0d5922bd",
+  "name": "POA",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

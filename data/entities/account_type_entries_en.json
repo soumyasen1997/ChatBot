@@ -1,0 +1,26 @@
+[
+  {
+    "value": "current",
+    "synonyms": [
+      "current"
+    ]
+  },
+  {
+    "value": "from_account",
+    "synonyms": [
+      "from_account"
+    ]
+  },
+  {
+    "value": "savings",
+    "synonyms": [
+      "savings"
+    ]
+  },
+  {
+    "value": "to_account",
+    "synonyms": [
+      "to_account"
+    ]
+  }
+]

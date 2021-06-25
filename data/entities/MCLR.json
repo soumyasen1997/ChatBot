@@ -1,0 +1,9 @@
+{
+  "id": "313ddeec-c264-4a02-ac24-8a2e42a1c773",
+  "name": "MCLR",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

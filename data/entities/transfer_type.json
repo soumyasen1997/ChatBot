@@ -1,0 +1,9 @@
+{
+  "id": "5b3b2790-8d64-4a1e-90aa-8db8e04f3595",
+  "name": "transfer_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

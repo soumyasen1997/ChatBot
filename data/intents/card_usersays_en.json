@@ -1,0 +1,2176 @@
+[
+  {
+    "id": "f7a54e56-97b9-401b-b7df-8a79466dd8fa",
+    "data": [
+      {
+        "text": "I can\u0027t remember my pin. What should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c70a6292-5423-4d28-a26e-a6b58d5733ed",
+    "data": [
+      {
+        "text": "\tHow can I change my pin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae619a51-8b61-4b5b-8799-841d5156ccca",
+    "data": [
+      {
+        "text": "I want to generate a new pin.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "124da205-78bf-44d6-91fc-5a2ba0006a1a",
+    "data": [
+      {
+        "text": "I forgot my pin. What should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab040795-0684-4df8-b66e-c8a4b832a72a",
+    "data": [
+      {
+        "text": "\tI want to change my pin.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c929faaa-1312-478b-9390-230b3cd8314f",
+    "data": [
+      {
+        "text": "  \tCan you tell me how to update my pin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c32a69ba-707c-4267-ba06-7122da079152",
+    "data": [
+      {
+        "text": "\n \tWhat to do I have forgotten my pin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e9c51f8-740f-438a-aded-a60da272d5ce",
+    "data": [
+      {
+        "text": "\tHow do I generate my transaction pin for my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b491484-4bee-4999-a8fe-f93f74379952",
+    "data": [
+      {
+        "text": "What is the procedure to activate my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ed5f68e-2300-456a-9d38-31e365a23e7b",
+    "data": [
+      {
+        "text": "How can I activate my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "679f4dbb-ea20-4ab7-85c5-b548be39e50c",
+    "data": [
+      {
+        "text": "How can I do online payment using debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e5cd97c-dbe9-4bf7-ae3d-59f3cbb95766",
+    "data": [
+      {
+        "text": "\tHow can I pay my bills using debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ad58bca-edcf-4ad1-ad0d-6608b4642271",
+    "data": [
+      {
+        "text": "How can I make payment using debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cab7884-c632-49c8-95d8-fe9b86397025",
+    "data": [
+      {
+        "text": "What to do if my credit card got debited twice for a single transaction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96a0279e-dc67-429e-b3cc-a7eef8ae8168",
+    "data": [
+      {
+        "text": "My credit card got debited thrice for a transaction done only once.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c85a50-76bb-4202-92ad-4b3876d57c14",
+    "data": [
+      {
+        "text": "What should I do if my credit card got debited multiple times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fdbbe27-5792-422a-90ec-7c0c0865f76e",
+    "data": [
+      {
+        "text": "What should I do if my credit card got debited twice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4e0ed88-c0df-4e3d-bd07-fc64f9f76ea2",
+    "data": [
+      {
+        "text": "\tWhat to do if I want to know the annual fee for my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15eefc00-b924-4655-98dd-5f0d025a5a5a",
+    "data": [
+      {
+        "text": "\tHow can I know the annual fee for credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d39dd535-0e81-4062-8e88-dccdd32aa124",
+    "data": [
+      {
+        "text": "I want to know the annual fee for credit card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79f395a1-0504-4d15-96a8-0f384fc42583",
+    "data": [
+      {
+        "text": "\tI want to know the annual fee for debit card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "378cd2f1-e342-4463-aaff-f41ae5b343cc",
+    "data": [
+      {
+        "text": "What is the annual fee for my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1742d6a-3817-4584-ad8e-6f3f3f90894f",
+    "data": [
+      {
+        "text": "\n What is the annual fee for my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7f59a38-bf7a-420e-9f92-253ae63178df",
+    "data": [
+      {
+        "text": "I want to fill in my details for credit card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cda0762-0e14-4da6-bb10-2a923677cb6f",
+    "data": [
+      {
+        "text": "Can you tell me fast method to change my address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81abe205-6008-4df2-8087-4c0c6c9e6dde",
+    "data": [
+      {
+        "text": "i want to update my mobile number and email id.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf80ce0-bd66-44a8-bd30-8dc8fd5b12e5",
+    "data": [
+      {
+        "text": "\tI want to update my address.\n   .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "240e290c-ef80-4021-a3db-ce9beb0cffae",
+    "data": [
+      {
+        "text": "How to update my contact information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15618cde-43b7-492f-91ee-cf3d27dd34bf",
+    "data": [
+      {
+        "text": "How to update my mobile number for ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b8c5484-0a3b-4230-971f-47d69e5c12a4",
+    "data": [
+      {
+        "text": "\tWhat should I do if I want to know my total credit limit and available credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "882b30bb-19e0-44f2-a00d-3d5bfae23b40",
+    "data": [
+      {
+        "text": "\tWhat should I do if I want to know my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19b25ae8-25ee-4cc6-a356-c5d38d3a2f51",
+    "data": [
+      {
+        "text": "Is there a method to check my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0953dde5-6180-436a-a9ac-ff5b946a478a",
+    "data": [
+      {
+        "text": "What is the procedure to check my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8f95843-2d43-43c9-8ddf-58bc2efed6b1",
+    "data": [
+      {
+        "text": "How can I check my available credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "805d8c35-cead-427b-80bf-28ecd9a2765a",
+    "data": [
+      {
+        "text": "\n  How can I check the total credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d0c5841-084c-4293-a1cd-acb3074f052c",
+    "data": [
+      {
+        "text": "How can I check my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4adf7d7e-ae52-4282-9dd2-9285b969e1e2",
+    "data": [
+      {
+        "text": "What should I do if my credit card got debited for a transaction I don\u0027t know about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17fb7fea-6648-4827-947b-10da41b803cb",
+    "data": [
+      {
+        "text": "What to do if there is a fraudulent transaction through my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c90afd13-f011-4a94-b91e-a3462cf37b18",
+    "data": [
+      {
+        "text": "What should I do if there is a fraudulent transaction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4517ac7-5bdb-46f7-8f70-d19dec18ae89",
+    "data": [
+      {
+        "text": "I received a SMS for a transaction which I didn\u0027t make.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed00b349-4508-438f-9078-15814a8cfe92",
+    "data": [
+      {
+        "text": "\n What will I do if I have received an alert for a transaction I didn\u0027t make?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e4789fa-8eaf-417a-9c83-c093053f7c0d",
+    "data": [
+      {
+        "text": "What should I do if my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " got debited for an unknown transaction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3237f81-33a7-4095-9105-eeeeb72609d6",
+    "data": [
+      {
+        "text": "How to view my statement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "827b9b7d-a08d-4a0e-95f2-4f202f13232a",
+    "data": [
+      {
+        "text": "After receiving my statement, within how many days do I need to pay my bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "217bd4dc-30ce-4bb6-9ff5-5334f1afbb9b",
+    "data": [
+      {
+        "text": "Is there any payment due date for bill payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c303832-d7df-4a88-b73e-519e1ee6fe46",
+    "data": [
+      {
+        "text": " Where can I view my card statement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a3f5f20-47db-4710-8772-0674a714c363",
+    "data": [
+      {
+        "text": " I want to know my payment last date for my credit card bill\n.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2024f6f8-a021-427b-9a10-7ac437acd8a4",
+    "data": [
+      {
+        "text": "I want to view my statement.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16aa07a2-0291-4af0-a50f-7df0b47f3848",
+    "data": [
+      {
+        "text": "How can I get my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " statement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d55169e-d380-4a90-a7a5-e438dd63c94a",
+    "data": [
+      {
+        "text": "What is the maximum time limit given for the payment of my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3565419-21e2-45d9-9681-5dbb4c83bb88",
+    "data": [
+      {
+        "text": "Within how many days do I need to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c229d27-5753-49d3-8e59-ca9c6b722ef8",
+    "data": [
+      {
+        "text": "What are the methods by which I can pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddc36502-daf9-4cfb-9f6e-34ebac1aa105",
+    "data": [
+      {
+        "text": "Within how many days will my bill payment reflect in account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e5fb9a2-541d-43c7-bbb7-2ed2f908952c",
+    "data": [
+      {
+        "text": "Which is the best way to pay my bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6424da36-9e7c-495d-ab9b-f0d45a684a47",
+    "data": [
+      {
+        "text": "Which is the easiest way to pay my credit card bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d303b07-c9cb-4970-b479-c5aae21686d2",
+    "data": [
+      {
+        "text": "I want to pay my credit card bill.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc1ca0dd-3dbc-4cbd-aaf2-742f951961cc",
+    "data": [
+      {
+        "text": "\n   Which is the best way to pay my credit card bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07074eed-f2e5-4844-8ee1-6dd00fee1f10",
+    "data": [
+      {
+        "text": "\n   When does visa credit card payment reflect in account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d972e01b-d8bd-4831-9c18-be73f95cd0e5",
+    "data": [
+      {
+        "text": "How can I make payment using visa ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " Pay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49e88b4e-1d96-4848-a6b3-1733488a1cb0",
+    "data": [
+      {
+        "text": "How to pay my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "568dab2e-51e1-4ec2-9e8e-f92281679349",
+    "data": [
+      {
+        "text": "What is the fastest way to pay my credit card bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4e7f8aa-e6a3-4d4a-b612-57841f37a225",
+    "data": [
+      {
+        "text": "Which documents are required to get my credit limit increased?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f117ab32-f960-4da3-8212-3b6be6c861a1",
+    "data": [
+      {
+        "text": "Which income documents are needed to get my credit limit increased?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e580643-6a2c-4248-a806-5c4a684b4225",
+    "data": [
+      {
+        "text": "I had already requested for an increase in my credit limit but it hasn\u0027t been executed yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a6e831-659a-465b-aed4-e1f9509c9ceb",
+    "data": [
+      {
+        "text": "\n How can I increase my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee0501d4-31d8-4bac-a153-5eb944d6d317",
+    "data": [
+      {
+        "text": "I want to increase my credit limit.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "beced0c5-5b9d-4c35-a6bc-7f5b940920f5",
+    "data": [
+      {
+        "text": "What is the method to increase the maximum amount for my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3552989-f928-454f-af6e-de8b846d51f6",
+    "data": [
+      {
+        "text": "Why was my credit limit not increased as per request?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04c4ce2a-8a09-4edb-ab97-1e35eaec6d9f",
+    "data": [
+      {
+        "text": "\n Can I increase the maximum amount for my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f137d22-7d9e-4efe-af89-59b3c3972bcb",
+    "data": [
+      {
+        "text": "What is the procedure to increase my credit limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c322a502-25a2-4219-a317-0101a29b14a4",
+    "data": [
+      {
+        "text": "Is there a method to get my credit limit increased?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c20706-3b9e-48f1-8c4c-43670d99720e",
+    "data": [
+      {
+        "text": "How can I get my credit limit increased?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bdc6a38-d248-46e9-80f6-8b0b235df6f9",
+    "data": [
+      {
+        "text": "   Within how many days, will I get my reissued ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85007991-33f1-4f8f-8dc1-f840e1437564",
+    "data": [
+      {
+        "text": "What is the maximum time taken to get a reissued card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c362af5e-c221-4a05-b792-60b9ff62c49c",
+    "data": [
+      {
+        "text": "I have already placed a request for reissue but I haven\u0027t yet received my card.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b0ba057-59bf-41ee-868b-e1212f244c68",
+    "data": [
+      {
+        "text": "When will I get my reissued card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76d6d200-5ac8-46ca-927c-75793790d84f",
+    "data": [
+      {
+        "text": "How can I place a request for card reissue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a52f67d-81b7-407b-a372-7ea0f9cd2b0b",
+    "data": [
+      {
+        "text": "Do I need to reissue a new debit card or I can unblock my previous card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71503eb0-a80f-4aae-b29b-46612de0d90d",
+    "data": [
+      {
+        "text": "Do I need to go to the bank to unblock my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6340b3bf-c356-4ad3-84e6-96796b9e5f33",
+    "data": [
+      {
+        "text": "Can you tell me how to unblock my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3093e4f2-4eb3-4e5f-b8af-3be4c92b7562",
+    "data": [
+      {
+        "text": " Is there an easy way to unblock my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2b9c6e1-3b95-436d-9fa5-babac2fd8178",
+    "data": [
+      {
+        "text": "What is the procedure to unblock my debit or ATM card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08ef4547-37b9-4eb9-93df-db90333daa10",
+    "data": [
+      {
+        "text": "How to unblock my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d051972-614f-4cd6-a1d0-19ebdc622261",
+    "data": [
+      {
+        "text": "What is the process to unblock my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04771f00-b077-4a6e-9c0d-0d67e5717e84",
+    "data": [
+      {
+        "text": "Can I unblock my credit card online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "661aecf1-958f-45ad-a3ae-0b0db0dc5efa",
+    "data": [
+      {
+        "text": "I have found my credit card. Can I unblock it now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70b44cd3-0f24-40d5-a394-42bdf4c1416e",
+    "data": [
+      {
+        "text": "how do i unblock my ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "520c3c4f-dd7f-4398-bc91-693a894b26b6",
+    "data": [
+      {
+        "text": "how do i unblock my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ed5d4f9-f7a9-4f8c-b387-d91b426fd464",
+    "data": [
+      {
+        "text": "How much time does it take to get ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " after application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "749623f2-f148-414f-8068-c2ae0933053b",
+    "data": [
+      {
+        "text": "It has been ",
+        "userDefined": false
+      },
+      {
+        "text": "7 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " since I have applied for my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " but I haven\u0027t received it yet. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b846d3f3-9dc0-4b47-9522-60cae362d03c",
+    "data": [
+      {
+        "text": "How to know about the status of my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "646beac5-eba6-4943-9851-7d1fa205b163",
+    "data": [
+      {
+        "text": "When will I get my debit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45b66afa-3bc6-4e3d-a340-e5ecbdc3f2d6",
+    "data": [
+      {
+        "text": "How to know about the status of my card application.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "379bb2b5-2591-4489-ae86-57a648b3ada6",
+    "data": [
+      {
+        "text": "Do I need to go to the bank to enquire about my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e055f22-b9fe-4748-859a-68fcfddf52d9",
+    "data": [
+      {
+        "text": "How to track my credit card application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecdd0385-16a7-430e-8c90-8a69a777d927",
+    "data": [
+      {
+        "text": "\tIt has been over ",
+        "userDefined": false
+      },
+      {
+        "text": "5 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " and I still haven\u0027t received any updates about my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card.",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " Where can I get information regarding its status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def8a9bb-f93f-4290-911d-dd296453cb70",
+    "data": [
+      {
+        "text": " How long do I need to wait for my credit card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9ebd84b-443a-43b3-a4df-c7e7c58157b6",
+    "data": [
+      {
+        "text": "It has been more than a week, but I haven\u0027t received my credit card yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c0646b3-ce67-4bcf-ab27-89e3115058f9",
+    "data": [
+      {
+        "text": "Within how many days of application, will I get my card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4968663-c714-49e2-9a66-84209c54f993",
+    "data": [
+      {
+        "text": "when will i get my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cc900b6-09ed-41fe-a10a-703359704ffa",
+    "data": [
+      {
+        "text": "what is the status of my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21823135-fe03-4f28-93b6-7d2f7a124586",
+    "data": [
+      {
+        "text": "can you tell me how to use my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317bf037-ce10-4158-b279-aefd480b44e4",
+    "data": [
+      {
+        "text": "how do i use my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a62d679b-4eea-44d1-836e-ccb987ecbb09",
+    "data": [
+      {
+        "text": "what happens after i block my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7671c426-5ef1-4271-b436-c60fcb203ed6",
+    "data": [
+      {
+        "text": "can i replace my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " if i have already replaced once?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06aa46a4-fe3b-4a7d-adcf-40dc1680b919",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " is damaged. what to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccca1f02-ae85-410d-b585-230d70174670",
+    "data": [
+      {
+        "text": "is replacement of ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " free of cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2497cd6c-a50b-4c20-93a6-be1797b73045",
+    "data": [
+      {
+        "text": "is there any replacement fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94540fa7-1fe7-4bcf-a8c4-12d59d1a6908",
+    "data": [
+      {
+        "text": "is there any way to replace my ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2630ce62-8b77-461c-bf33-5db5a705be9f",
+    "data": [
+      {
+        "text": "how to replace my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "301a33b7-9fba-4b9b-b5f4-f2c411bb684b",
+    "data": [
+      {
+        "text": "what to do if my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " is broken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2aa3bda0-0456-4de9-a0ff-2dba87c9cae1",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " is damaged. what should i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea58f5a3-8cb5-454c-88cf-d4894e16d00c",
+    "data": [
+      {
+        "text": "Within how many days will my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " be blocked if it is stolen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0253336b-4030-4b15-8e72-6ec2af1be18b",
+    "data": [
+      {
+        "text": "how to block my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63ea9891-fa8b-4ff8-9fe2-99436bc7d133",
+    "data": [
+      {
+        "text": "can i block my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e07a9952-38b8-4894-b519-4a57ca36bf52",
+    "data": [
+      {
+        "text": "can i block my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fb73dc3-f9e1-47db-9f73-fa5b32ce84d5",
+    "data": [
+      {
+        "text": "what to do if i have lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97f68343-fb71-48f1-9834-f0463ca92139",
+    "data": [
+      {
+        "text": "someone stole my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": ". what to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c8278b4-a0c4-4cbf-bebc-8055e30668e7",
+    "data": [
+      {
+        "text": "is there a way to block my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "176b0d73-260a-4cc1-bde8-c604754e5cf8",
+    "data": [
+      {
+        "text": "how will i block my ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92ba2185-3e41-41de-bc47-0626232b98e9",
+    "data": [
+      {
+        "text": "how will i block my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e3ded82-eaee-4f9b-80f6-92912ecf4ca9",
+    "data": [
+      {
+        "text": "I think i have lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70b04900-e920-4d40-b758-4c2f7ed188ac",
+    "data": [
+      {
+        "text": "i cant find my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35dbfe53-c681-46f3-b1a5-fb872bc4bce6",
+    "data": [
+      {
+        "text": "i have lost my ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a9192c7-3b89-4732-ba96-75c11f833356",
+    "data": [
+      {
+        "text": "What documents do I need to apply for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "700389f4-3824-4950-839b-295ecaf41be0",
+    "data": [
+      {
+        "text": "what documents are needed to apply for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5323864b-cd41-4d41-bc60-b7906dc73a91",
+    "data": [
+      {
+        "text": "can i apply for a ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fb4dc03-68a2-4476-ba8e-1c9ff668748a",
+    "data": [
+      {
+        "text": "can i apply for a ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58ec33c7-90e0-499c-8a38-f02b7045c49e",
+    "data": [
+      {
+        "text": "what is the procedure to apply for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9648cd5-2b13-4021-8f90-4006c6b4e983",
+    "data": [
+      {
+        "text": "i want to apply for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ebeec5e-bd49-4f33-9083-4b28887220ee",
+    "data": [
+      {
+        "text": "what is the annual fee for a ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10369f5b-ce7c-4286-afee-5a138ba1dc07",
+    "data": [
+      {
+        "text": "is there any free ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "911fcc87-823a-44c0-a1f4-241c60de8451",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " free of cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e883016b-c2b7-4263-a14a-106875d1d3b0",
+    "data": [
+      {
+        "text": "what are the different types of ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": " available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "543d3c0d-b60a-4a72-84a2-52d05e61c3a1",
+    "data": [
+      {
+        "text": "i want a new ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a77a758-26a2-49fc-8367-ca85cbb17083",
+    "data": [
+      {
+        "text": "I want a new ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cc6d79b-dcea-4a3b-bc48-8248e53dd112",
+    "data": [
+      {
+        "text": "How can I apply for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "cardtype",
+        "meta": "@cardtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0089ce4e-f596-47a2-80dc-4bde57cfb1cd",
+    "data": [
+      {
+        "text": "I can\u0027t remember my pin. What to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ee69a75-53b8-40ce-acd5-957be6a51c42",
+    "data": [
+      {
+        "text": "What is the method to update my pin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

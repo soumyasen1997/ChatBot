@@ -1,0 +1,920 @@
+[
+  {
+    "id": "eff2cffb-5af7-42cc-93b6-bb5f8653aad3",
+    "data": [
+      {
+        "text": " If I change my Mobile no, do I again need to register again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8906b8b2-6c60-4208-8a9d-d6e5513850bd",
+    "data": [
+      {
+        "text": "I have changed my mobile no. Do I need to register again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba2f84fc-796d-4b3f-aef4-64c3c81cf347",
+    "data": [
+      {
+        "text": "what is know your customer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2382ab7-5b98-4a0e-a241-4b66fd6bf8d5",
+    "data": [
+      {
+        "text": "KYC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c048613-04ac-490e-a08e-55b5f3e79825",
+    "data": [
+      {
+        "text": "What is KYC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c3476ae-4383-4306-841f-18b744150ed8",
+    "data": [
+      {
+        "text": "How do traditional ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " bank accounts differ from a payment bank accounts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41673f0b-1fd1-4706-925c-ee18ce365246",
+    "data": [
+      {
+        "text": "What are the charges that I need to pay for requesting a copy of my bank statement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0ee5b28-9f46-4e9f-bf8f-30de4e5fdca8",
+    "data": [
+      {
+        "text": "I want to modify a nominee for my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6daeed50-bc14-495c-aeb6-6c4af93de49a",
+    "data": [
+      {
+        "text": "I want to add a nominee for my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a85ad0e-76c7-43de-88b1-19960a148f10",
+    "data": [
+      {
+        "text": "I want to delete a nominee for my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7786a883-b1fe-4c88-9457-9c4014982ff3",
+    "data": [
+      {
+        "text": " benefits for senior citizens ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f5e409e-8e85-4f8f-9202-b8f6310ab950",
+    "data": [
+      {
+        "text": "What are the benefits offered by senior citizens ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be50719c-a6e1-4798-94fe-89e100097540",
+    "data": [
+      {
+        "text": "I want to open a zero account balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce2b808-400e-4b1b-9fa7-0a63a9d896b7",
+    "data": [
+      {
+        "text": "How can I change my account number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e11f84a-4a67-46d1-91e6-85565b68ba52",
+    "data": [
+      {
+        "text": "I want to change my account number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2de4d5b1-2f6c-4b61-a083-0ac5d8d6e1e1",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "rate of interest",
+        "alias": "RATE_OF_INTEREST",
+        "meta": "@RATE_OF_INTEREST",
+        "userDefined": false
+      },
+      {
+        "text": " that I will earn on the balance in my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " Bank Account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6057f0d0-6ad4-492f-ae44-53a9a664e68f",
+    "data": [
+      {
+        "text": "Give me my account statements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1569a82c-5f90-43fe-9057-27cc9ee1edec",
+    "data": [
+      {
+        "text": "Where should I register my query/complaint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd2a8c01-409d-4753-846a-4974a43374bb",
+    "data": [
+      {
+        "text": "How can I receive my account statements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4bbcedc-5bf7-42d6-9f48-e305a4a28c74",
+    "data": [
+      {
+        "text": "How long will it take to update a change of address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bb689f6-5e5f-4cf5-af3f-e96a74a07758",
+    "data": [
+      {
+        "text": "Are there any charges for non maintenance of minimum balance in my account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45b887d9-8a1b-4831-9a6f-02bedf026591",
+    "data": [
+      {
+        "text": "I want to link my aadhar number with bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "944678d8-e099-4083-82e1-763659cb87d8",
+    "data": [
+      {
+        "text": "How to link my aadhar number with bank account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f35587a-4ad0-434e-a3fd-de13be8557c9",
+    "data": [
+      {
+        "text": "Do I need a nominee to open an account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd3c4432-b69e-41b5-ab9c-423ea1aba7ff",
+    "data": [
+      {
+        "text": "Am I eligible to open a ",
+        "userDefined": false
+      },
+      {
+        "text": "joint account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4f2a378-5eb8-41b2-87a9-8c6dbfcce39c",
+    "data": [
+      {
+        "text": "I want to open a ",
+        "userDefined": false
+      },
+      {
+        "text": "joint account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "910c3f37-b786-44ae-abea-21643b6067d0",
+    "data": [
+      {
+        "text": "Can I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "joint account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "620feb9d-c294-496c-ae57-5ad469131348",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "interest",
+        "alias": "RATE_OF_INTEREST",
+        "meta": "@RATE_OF_INTEREST",
+        "userDefined": false
+      },
+      {
+        "text": " earned on my ",
+        "userDefined": false
+      },
+      {
+        "text": "saving",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account deposited or credited into my account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec1e718e-31d7-422f-9093-e381b3cb1c8c",
+    "data": [
+      {
+        "text": "interest rate",
+        "alias": "RATE_OF_INTEREST",
+        "meta": "@RATE_OF_INTEREST",
+        "userDefined": false
+      },
+      {
+        "text": " for my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c152b755-6fa8-42f1-865c-7f0d821f9ed9",
+    "data": [
+      {
+        "text": "At what rate will I earn ",
+        "userDefined": false
+      },
+      {
+        "text": "interest",
+        "alias": "RATE_OF_INTEREST",
+        "meta": "@RATE_OF_INTEREST",
+        "userDefined": false
+      },
+      {
+        "text": " on the balance in my ",
+        "userDefined": false
+      },
+      {
+        "text": "Savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " Account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2684e75a-cdc8-451f-9149-f5c5a9c722f7",
+    "data": [
+      {
+        "text": "Is there any minimum opening balance for a ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "703368f3-6c9a-4f7e-8171-ff864ff24fbc",
+    "data": [
+      {
+        "text": "minimum opening balance for a ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "598b2049-5f17-414d-b799-ddbb01507c28",
+    "data": [
+      {
+        "text": "what are the documents required to open a ",
+        "userDefined": false
+      },
+      {
+        "text": "Savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " Account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5863e5a4-82c6-4ef9-a86e-e39484fed3fb",
+    "data": [
+      {
+        "text": "documents required to open a ",
+        "userDefined": false
+      },
+      {
+        "text": "Savings",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": false
+      },
+      {
+        "text": " Account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7149d3c6-8b29-4974-9b3f-a3de3fe97563",
+    "data": [
+      {
+        "text": "type of ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef6c2877-32e0-4413-acc4-3a1f8b0f3c20",
+    "data": [
+      {
+        "text": "What are the various types of ",
+        "userDefined": false
+      },
+      {
+        "text": "Savings accounts",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b663665-ef49-415a-9e8b-0ec1a4af7b2d",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "571de843-92b3-409a-9a7c-b65236ec5c47",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "current account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eefb81f7-0b36-40e8-aea4-15b46482595f",
+    "data": [
+      {
+        "text": "How do I choose the best ",
+        "userDefined": false
+      },
+      {
+        "text": "Savings Account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": " for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1274a51-7309-4edc-acf2-7a7edb4a1753",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "savings Account",
+        "alias": "account_type",
+        "meta": "@account_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbf09438-59c2-4739-bbaa-3cb680949250",
+    "data": [
+      {
+        "text": "I want to update my contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60802b33-669c-4fbc-80bf-f2a413db3c12",
+    "data": [
+      {
+        "text": "How can I change my mobile number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bb299a4-ba08-47b7-adde-9d68f9de564a",
+    "data": [
+      {
+        "text": "I want to change my address details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42aaba79-faab-4dd3-9b04-8ed823b13a2d",
+    "data": [
+      {
+        "text": " I want to change my mobile number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "819989d5-e383-4370-a174-82f77175f369",
+    "data": [
+      {
+        "text": "I want to close account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3f9e582-f3e0-49d9-a14a-88fc28807790",
+    "data": [
+      {
+        "text": "new account open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b609ca1-290d-4969-99ec-9ccf87fa20f6",
+    "data": [
+      {
+        "text": "account close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a293d0f-1578-4a11-8f0b-603ad975979c",
+    "data": [
+      {
+        "text": "how do I close my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2924f59b-7394-47c2-90e5-a0196721a953",
+    "data": [
+      {
+        "text": "want to close my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75b0477a-0a3e-4738-94d4-7f2735b92c32",
+    "data": [
+      {
+        "text": "close an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0465151-2b78-46e1-ac21-e0c38fe4ffc0",
+    "data": [
+      {
+        "text": "steps for opening an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3495e8aa-6350-4ade-9419-a505e0b6ad97",
+    "data": [
+      {
+        "text": "how do I open an account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb14bd41-88cf-4811-82c4-59ac50350db7",
+    "data": [
+      {
+        "text": "I want to open an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0b501b4-d5e7-426b-8d74-6f4c99cfb87a",
+    "data": [
+      {
+        "text": " want to open an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c656ee3-eddd-44a6-bdda-3791eb5d22fd",
+    "data": [
+      {
+        "text": "open an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

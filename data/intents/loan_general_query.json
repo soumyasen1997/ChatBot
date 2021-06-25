@@ -1,0 +1,76 @@
+{
+  "id": "5a095bd3-a4c4-4a09-af0f-bfde67b85834",
+  "name": "loan_general_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20ccaba6-a7c5-48e7-87d8-3130f9e1917b",
+          "required": false,
+          "dataType": "@EMI",
+          "name": "EMI",
+          "value": "$EMI",
+          "isList": true
+        },
+        {
+          "id": "01b2e265-e2d3-412b-ade1-283b9bed6819",
+          "required": false,
+          "dataType": "@down_payment",
+          "name": "down_payment",
+          "value": "$down_payment",
+          "isList": false
+        },
+        {
+          "id": "18b011d1-3faf-4d63-b2ec-f060b52946df",
+          "required": false,
+          "dataType": "@LoanType",
+          "name": "LoanType",
+          "value": "$LoanType",
+          "isList": false
+        },
+        {
+          "id": "2bef21e2-339b-4f34-ab32-778274bd3123",
+          "required": false,
+          "dataType": "@RATE_OF_INTEREST",
+          "name": "RATE_OF_INTEREST",
+          "value": "$RATE_OF_INTEREST",
+          "isList": false
+        },
+        {
+          "id": "a93f1c60-0fe2-426f-96de-b41a13f86a73",
+          "required": false,
+          "dataType": "@NRI_PIO",
+          "name": "NRI_PIO",
+          "value": "$NRI_PIO",
+          "isList": true
+        },
+        {
+          "id": "d213b41b-f52f-4afa-9e9c-0b0c9197a906",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

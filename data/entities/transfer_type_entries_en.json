@@ -1,0 +1,37 @@
+[
+  {
+    "value": "IMPS",
+    "synonyms": [
+      "IMPS",
+      "innovative real time payment service"
+    ]
+  },
+  {
+    "value": "NEFT",
+    "synonyms": [
+      "NEFT",
+      "National Electronic Funds Transfer"
+    ]
+  },
+  {
+    "value": "RTGS",
+    "synonyms": [
+      "RTGS",
+      "Real Time Gross Settlement"
+    ]
+  },
+  {
+    "value": "deposit",
+    "synonyms": [
+      "deposit"
+    ]
+  },
+  {
+    "value": "withdraw",
+    "synonyms": [
+      "spend",
+      "spending",
+      "withdraw"
+    ]
+  }
+]

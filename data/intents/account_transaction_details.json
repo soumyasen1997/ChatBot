@@ -1,0 +1,84 @@
+{
+  "id": "36a7ca69-a2dc-4adf-8730-c1aac29a6f8a",
+  "name": "account_transaction_details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "spending",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "withdraw",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "deposit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "faa436aa-99ea-48cb-ae2f-2fee860b15d9",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "b388b6ab-2928-4793-ba18-f610a314b3a7",
+          "required": false,
+          "dataType": "@transfer_type",
+          "name": "transfer_type",
+          "value": "$transfer_type",
+          "isList": false
+        },
+        {
+          "id": "7963286b-2229-4c1e-add8-5b84a57ed9fe",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "a91d9e76-c2f1-423b-b841-2e081a9a0fe0",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "4a0f11ba-037f-484e-a83a-205c9fa41d0f",
+          "required": false,
+          "dataType": "@account_type",
+          "name": "account_type",
+          "value": "$account_type",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

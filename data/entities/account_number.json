@@ -1,0 +1,9 @@
+{
+  "id": "b2b74c44-1ae0-466b-9bb4-8826c4652e1b",
+  "name": "account_number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
